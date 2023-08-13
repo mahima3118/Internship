@@ -4,3 +4,8 @@ Flip Robo Data science Internship Files
 [File 2.pdf](https://github.com/mahima3118/Internship/files/12062184/File.2.pdf)
 [File 3.pdf](https://github.com/mahima3118/Internship/files/12136584/File.3.pdf)
 [Regex.pdf](https://github.com/mahima3118/Internship/files/12284028/Regex.pdf)
+# Internship Worksheet_1
+[MachineLearning_assignment solved.pdf](https://github.com/mahima3118/Internship/files/12330132/MachineLearning_assignment.solved.pdf)
+[Python worksheet 1 solved.pdf](https://github.com/mahima3118/Internship/files/12330133/Python.worksheet.1.solved.pdf)
+[Python worksheet 1.1 solved.pdf](https://github.com/mahima3118/Internship/files/12330134/Python.worksheet.1.1.solved.pdf)
+[Statistics worksheet 1 solved.pdf](https://github.com/mahima3118/Internship/files/12330135/Statistics.worksheet.1.solved.pdf)
