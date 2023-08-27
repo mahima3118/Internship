@@ -9,6 +9,7 @@ Flip Robo Data science Internship Files
 [Python worksheet 1 solved.pdf](https://github.com/mahima3118/Internship/files/12330133/Python.worksheet.1.solved.pdf)
 [Python worksheet 1.1 solved.pdf](https://github.com/mahima3118/Internship/files/12330134/Python.worksheet.1.1.solved.pdf)
 [Statistics worksheet 1 solved.pdf](https://github.com/mahima3118/Internship/files/12330135/Statistics.worksheet.1.solved.pdf)
-# WebScraping with BeautifulSoup A1
+# WebScraping with BeautifulSoup 
 [WS with BeautifulSoup A1.pdf](https://github.com/mahima3118/Internship/files/12386558/WS.with.BeautifulSoup.A1.pdf)
-
+# WebScraping with Selenium 
+[Sel 1.pdf](https://github.com/mahima3118/Internship/files/12448463/Sel.1.pdf)
